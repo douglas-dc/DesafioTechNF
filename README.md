@@ -1,6 +1,7 @@
 Projeto criado conforme as necessidades solicitadas.
 
 Obs1: Foi utilizado o banco de dados SQLite no desenvolvimento;
+
 Obs2: CRUD completo somente para a entidade Aluno, o restante foi desenvolvido somente o necessário para o funcionamento da aplicação.
 
 ---SCRIPTS---
