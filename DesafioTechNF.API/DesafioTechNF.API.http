@@ -1,0 +1,6 @@
+@DesafioTechNF.API_HostAddress = http://localhost:5215
+
+GET {{DesafioTechNF.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
